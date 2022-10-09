@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IndomoDesignArt/precache-manifest.2c2b1e802d020494544bfcc16459b37e.js"
+  "/IndomoDesignArt/precache-manifest.156c75ad1dbde62532e69fc813c2f7f1.js"
 );
 
 workbox.clientsClaim();
