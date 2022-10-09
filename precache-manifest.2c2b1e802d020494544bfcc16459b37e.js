@@ -68,16 +68,20 @@ self.__precacheManifest = [
     "url": "/IndomoDesignArt/static/media/interiorismo.90e72bfc.mp4"
   },
   {
-    "revision": "2267a8b159c35f17f91f9eeccc99fa95",
-    "url": "/IndomoDesignArt/static/media/lampc3.2267a8b1.png"
-  },
-  {
-    "revision": "85085d1c910e34b5e5521660e190e911",
-    "url": "/IndomoDesignArt/static/media/collage1.85085d1c.png"
+    "revision": "111076fecd37407089dd7e0de6f99e93",
+    "url": "/IndomoDesignArt/static/media/lampc2.111076fe.png"
   },
   {
     "revision": "9b70c7bb0bdd5d8ad85b38254f4312af",
     "url": "/IndomoDesignArt/static/media/tree2.9b70c7bb.jpg"
+  },
+  {
+    "revision": "2267a8b159c35f17f91f9eeccc99fa95",
+    "url": "/IndomoDesignArt/static/media/lampc3.2267a8b1.png"
+  },
+  {
+    "revision": "ca4a74dbe53778274e8956dae8e4929f",
+    "url": "/IndomoDesignArt/static/media/patron1.ca4a74db.png"
   },
   {
     "revision": "7879a70921896e5fe9a85517790b96a5",
@@ -88,24 +92,12 @@ self.__precacheManifest = [
     "url": "/IndomoDesignArt/static/media/collage3.519f7210.png"
   },
   {
-    "revision": "111076fecd37407089dd7e0de6f99e93",
-    "url": "/IndomoDesignArt/static/media/lampc2.111076fe.png"
+    "revision": "85085d1c910e34b5e5521660e190e911",
+    "url": "/IndomoDesignArt/static/media/collage1.85085d1c.png"
   },
   {
     "revision": "64fd8d561110f872ec44f701d0f31fdd",
     "url": "/IndomoDesignArt/static/media/patron2.64fd8d56.png"
-  },
-  {
-    "revision": "ca4a74dbe53778274e8956dae8e4929f",
-    "url": "/IndomoDesignArt/static/media/patron1.ca4a74db.png"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/IndomoDesignArt/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/IndomoDesignArt/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -114,6 +106,14 @@ self.__precacheManifest = [
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/IndomoDesignArt/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/IndomoDesignArt/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/IndomoDesignArt/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "7ef1d9c103d3e403e8c69e283e39f62c",
