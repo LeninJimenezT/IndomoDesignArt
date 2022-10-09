@@ -21,14 +21,14 @@ import Contactos from './Components/Contactos';
 //import Interiorismo from './Components/Interiorismo';
 import anime from 'animejs/lib/anime.es.js';
 
-//import video_luminaria from './Galery/Videos/light.mp4';
-//import video_muebles from './Galery/Videos/muebles.mp4';
+import video_luminaria from './Galery/Videos/light.mp4';
+import video_muebles from './Galery/Videos/muebles.mp4';
 //import video_interior from './Galery/Videos/interior2.mp4';
 
 function App() {
-    const video_interior="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/interior2.mp4";
-    const video_muebles="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/muebles.mp4";
-    const video_luminaria="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/light.mp4";
+    const video_interior="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/interior.mp4";
+    //const video_muebles="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/muebles.mp4";
+    //const video_luminaria="https://media.githubusercontent.com/media/LeninJimenezTorres/indomodesign.media/master/Videos/light.mp4";
 
     const [interiorshow, setInteriorshow] = useState('hidden');
     const [contactshow, setContactshow] = useState('hidden');
